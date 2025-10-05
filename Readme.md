@@ -52,4 +52,9 @@ POST /api/agg_send_step_two: Generate partial signature
 POST /api/aggregate_signatures: Aggregate signatures and broadcast
 
 ```
+<img width="1225" height="573" alt="image" src="https://github.com/user-attachments/assets/de03bf88-7238-4878-b840-098798377729" />
+<img width="779" height="672" alt="image" src="https://github.com/user-attachments/assets/c255ef77-a977-4660-9490-a12153ea2417" />
+<img width="1087" height="735" alt="image" src="https://github.com/user-attachments/assets/1fbb4576-813b-4848-a50a-842c1299ce03" />
+
+
 
